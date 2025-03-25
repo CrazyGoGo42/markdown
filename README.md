@@ -7,3 +7,10 @@ learning markdown I guess
 | First Header | Secord Header |
 | ------------ | ------------- |
 | Content Cell | Content Cell  |
+
+```css
+.mangoes {
+  display: flex;
+  flex-direction: center;
+}
+```
